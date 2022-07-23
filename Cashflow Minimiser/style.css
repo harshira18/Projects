@@ -1,0 +1,43 @@
+html,
+body {
+    height: 100%;
+}
+
+#mynetwork {
+    width: 50%;
+    height: 100%;
+    border: 2px solid rgb(18, 99, 220);
+}
+
+#container2 {
+    width: 50%;
+    height: 100%;
+    border: 2px solid rgb(18, 99, 220);
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+#mynetwork2 {
+    width: 100%;
+    height: 100%;
+}
+
+#container {
+    width: 100%;
+    height: 70%;
+    background-color: rgb(204, 223, 228);
+    display: flex;
+    margin: 0 auto;
+}
+
+#generate-graph {
+    margin: auto;
+    display: block;
+}
+
+
+#solve {
+    margin: auto;
+    display: block;
+}
