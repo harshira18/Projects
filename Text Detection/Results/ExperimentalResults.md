@@ -1,4 +1,4 @@
-*Evaluation Metrics*
+*Evaluation Metrics:*
 
 The most widely utilised protocols for conducting quantitative comparisons of text detection methods are the ICDAR standard evaluation metrics. To evaluate a text detector's performance, its precision and recall measures are examined. 
 
@@ -14,7 +14,7 @@ The intersection over union (IoU) metric of ICDAR-2015 is used to calculate the 
 
 and a threshold of IoU ≥ 0.5 is used to determine whether a detection was accurate.
 
-*Quantitative Results*
+*Quantitative Results:*
 
 The given table provides an overview of the experimental findings and the figure provides a graphical representation of the performance of the three text detectors on the respective datasets. We observe that TextFuseNet, being the latest of the models outperforms EAST and CRAFT in detecting both multi-oriented as well as horizontal text.
 
